@@ -1,0 +1,6 @@
+{
+  "name": "Portal Desa dan UMKM",
+  "description": "Portal resmi desa untuk mendukung pengembangan UMKM lokal, mempermudah akses warga, dan meningkatkan jangkauan pasar online secara nasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
